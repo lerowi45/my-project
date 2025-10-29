@@ -1,0 +1,67 @@
+[33mcommit d28fdc950a89e9924a06a60a2678b88a3f141c7f[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-x[m[33m, [m[1;31morigin/feature-x[m[33m)[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 16:01:54 2025 +0000
+
+    deleted test file
+
+[33mcommit 1bf2bf5bfa7db678812edd2837546c617b573c5d[m
+Author: Lemuel <99186158+lerowi45@users.noreply.github.com>
+Date:   Wed Oct 29 16:00:22 2025 +0000
+
+    Add testing content to test.txt
+
+[33mcommit 394ad1df4fda6e54590d74a29726dc17004641fc[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 15:33:43 2025 +0000
+
+    added gitignore file
+
+[33mcommit 2427e4b3a4b837b4f546baf8a329dfc8d4d75ba8[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 15:21:21 2025 +0000
+
+    Revert "added a line with code shake"
+    
+    This reverts commit c5a6a8a876590bc7c84ddc4d4011473847053a72.
+
+[33mcommit c5a6a8a876590bc7c84ddc4d4011473847053a72[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 15:13:25 2025 +0000
+
+    added a line with code shake
+
+[33mcommit beace440d6516f59269751f004f6499e49d4aa35[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 14:52:38 2025 +0000
+
+    added dance file
+
+[33mcommit bd023c66d57e7bf29f0ca95a09185ca80162a645[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 14:49:14 2025 +0000
+
+    added notification featur
+
+[33mcommit 3847e3f9cfe9ab29c40836bd1e5e8b777128dc28[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature-y[m[33m)[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 11:05:45 2025 +0000
+
+    4th commit
+
+[33mcommit b21c21cd985cc8a11cd6f88bb7cc6e6eb2a4757a[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 10:47:14 2025 +0000
+
+    third commit
+
+[33mcommit c32d6b1e589485fa7d918990062aa399bc88669a[m
+Author: lerowi45 <lewekies@gmail.com>
+Date:   Wed Oct 29 10:37:54 2025 +0000
+
+    second commit is from local repo
+
+[33mcommit f63ad6aef04b5b0ca78669c617f9f362d59d48dd[m
+Author: Lemuel <99186158+lerowi45@users.noreply.github.com>
+Date:   Wed Oct 29 10:35:43 2025 +0000
+
+    Add initial project description to README
