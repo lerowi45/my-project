@@ -1,1 +1,2 @@
 hi there, what is your name?
+are you a kind?
