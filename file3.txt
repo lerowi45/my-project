@@ -2,3 +2,4 @@ what is your name?
 what is your age?
 what is your gender?
 where do you stay?
+what is your height?
