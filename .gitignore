@@ -8,4 +8,4 @@
 build/
 
 #but keep .gitkeep file
-!build/.gitkepp
+!build/.gitkeep
