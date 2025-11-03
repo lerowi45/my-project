@@ -1,5 +1,6 @@
 what is your name?
 what is your age?
-what is your gender?
-where do you stay?
-what is your height?
+devops is interesting
+devops engineers are powerful
+it is not by chance though.
+you have to sacrifice your time and you have to be committed!
