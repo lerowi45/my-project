@@ -3,3 +3,6 @@
 
 #ignore all env files
 .env
+
+#ignore all files in the build directory
+build/*
