@@ -5,7 +5,7 @@
 .env
 
 #ignore all files in the build directory
-build/
+build/*
 
 #but keep .gitkeep file
 !build/.gitkeep
